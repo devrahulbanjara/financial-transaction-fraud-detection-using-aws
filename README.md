@@ -55,9 +55,11 @@ Our methodology is organized into a **four-phase implementation plan**, ensuring
 
 #### **Phase 3: Deployment and Orchestration of ML Workflows (Domain 3)**
 
+Sorry for the inconveniences, Phase 4 is yet to be implemented.
+
 #### **Phase 4: ML Solution Monitoring, Maintenance, and Security (Domain 4)**
 
-Sorry for the inconveniences, Phase 3 and 4 are yet to be implemented.
+Sorry for the inconveniences, Phase 3 is yet to be implemented.
 
 ---
 
